@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/bin/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.genruntimeconfig.cache
